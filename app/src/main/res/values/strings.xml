@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="signup"><u>SignUp</u></string>
+    <string name="login"><u>login</u></string>
+
+    <string-array name="Marla">
+        <item>Select Marla</item>
+        <item>3 Marla</item>
+        <item>5 Marla</item>
+        <item>10 Marla</item>
+        <item>1 Canal</item>
+
+    </string-array>
+
+    <string-array name="Floors">
+        <item>Choose Floor</item>
+        <item>1st Floor</item>
+        <item>2nd Floor</item>
+        <item>3rd Floor</item>
+        <item>4th Floor</item>
+        <item>5th Floor</item>
+        <item>6th Floor</item>
+        <item>7th Floor</item>
+        <item>8th Floor</item>
+        <item>9th Floor</item>
+        <item>10th Floor</item>
+
+    </string-array>
+
+
+</resources>
